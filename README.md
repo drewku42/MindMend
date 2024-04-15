@@ -1,3 +1,6 @@
+# HackKU 2024
+For this year's hackathon at the University of Kansas, I teamed up with Kevin Roy (K-State) and Emma Roy (KU) to develop MindMend.
+
 # MindMend 🌐
 
 MindMend - Harness the power of your social circle for mental wellness. Analyze, guide, uplift. Your mental health advocate in the digital world.
